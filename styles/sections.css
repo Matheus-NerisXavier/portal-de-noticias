@@ -19,7 +19,16 @@
       position: absolute;
       top: 50%;
       inset: 0;
-      top: 50%;
+    }
+
+    figcaption {
+      position: absolute;
+      bottom: 0;
+      padding: 24px;
+
+      h2 {
+        margin-top: 8px;
+      }
     }
   }
 }
