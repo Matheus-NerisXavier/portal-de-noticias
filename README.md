@@ -18,6 +18,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - **Flexbox**: Alinhamento e distribuição de elementos na página.
 - **Grid**: Estruturação da página com grids para organização dos componentes.
 
+## 🌐 Link do Projeto
+
+Você pode acessar a versão online do **Travelgram** clicando no link abaixo:
+
+https://portal-de-noticias-alpha.vercel.app/
+
+---
+
 ## 💻 Funcionalidades
 
 - Layout voltado para dispositivos **desktop**.
