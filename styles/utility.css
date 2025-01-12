@@ -1,24 +1,25 @@
-@import url(global.css);
-
-/* utility-first */
-
-.grid {
+/* utility-first (class utilitária)*/
+.grid{
   display: grid;
 }
 
-.grid-flow-col {
+.grid-flow-col{
   grid-auto-flow: column;
 }
 
-.grid-cols-2 {
+.grid-flow-row{
+  grid-auto-flow: row;
+}
+
+.grid-cols-2{
   grid-template-columns: 1fr 1fr;
 }
 
-.gap-16 {
+.gap-16{
   gap: 16px;
 }
 
-.gap-32 {
+.grap-32{
   gap: 32px;
 }
 
@@ -31,7 +32,7 @@
 }
 
 .text-lg {
-  font: var(--h3);
+ font: var(--h3);
 }
 
 .text-sm {
