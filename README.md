@@ -1,7 +1,7 @@
 <h1 align="center">Portal de Notícias</h1>
 
 <p align="center">
-  Portal de notícias criado utilizando **HTML** e **CSS**.
+  Portal de notícias criado utilizando <b>HTML</b> e <b>CSS</b>.
 </p>
 
 ![image](https://github.com/user-attachments/assets/367b5a14-4783-497e-a9f0-7802ce393642)
